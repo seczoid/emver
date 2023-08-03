@@ -2,7 +2,7 @@
 Mass validate email addresses
 
 
-Features:
+## Features:
 
 1. Check if email is deliverable
 2. Fast Concurrency
