@@ -10,3 +10,11 @@ Features:
 4. Parse email using regex
 
 
+## Build 
+go build -o emver main.go
+
+## Run
+
+chmod +x emver
+./emver
+
