@@ -16,4 +16,7 @@ Mass validate email addresses
 
 `chmod +x run.sh ; ./run.sh`
 
+## Usage
+
+`cat email.txt | emver`
 
