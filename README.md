@@ -11,10 +11,10 @@ Mass validate email addresses
 
 
 ## Build 
-go build -o emver main.go
+`go build -o emver main.go`
 
 ## Run
 
-chmod +x emver
-./emver
+`chmod +x emver ; ./emver`
+
 
