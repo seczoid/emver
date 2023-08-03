@@ -20,3 +20,6 @@ Mass validate email addresses
 
 `cat email.txt | emver`
 
+
+
+Stop using paid email validation solutions
