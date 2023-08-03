@@ -10,11 +10,10 @@ Mass validate email addresses
 4. Parse email using regex
 
 
-## Build 
-`go build -o emver main.go`
+
 
 ## Run
 
-`chmod +x emver ; ./emver`
+`chmod +x run.sh ; ./run.sh`
 
 
